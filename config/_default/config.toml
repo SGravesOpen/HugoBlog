@@ -1,4 +1,4 @@
-baseURL = "https://SamBlog.github.io"
+baseURL = "https://sgravesopen.github.io/HugoBlog/"
 title = "A Humble Temple"
 theme = "hugo-theme-bootstrap"
 copyright = "Eating Booty"
