@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Humble Temple</title>
+    <link>/en/</link>
+    <description>Recent content on A Humble Temple</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Eating Booty</copyright>
+    <lastBuildDate>Mon, 22 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Belief</title>
+      <link>/en/posts/belief/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/en/posts/belief/</guid>
+      <description>This was a tough year. Still, I&amp;rsquo;m positive for the future. I&amp;rsquo;ve learned a lot and managed to keep my wits about me in very trying times, physically and emotionally.</description>
+    </item>
+    
+    <item>
+      <title>Playing the &#34;Slow game&#34;</title>
+      <link>/en/posts/slow/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/en/posts/slow/</guid>
+      <description>In my time playing fighting games, my playstyle has gone through a lot of changes. The more games I play and the better I get, the more polished my play becomes and the better my perspective gets. One of the biggest things that has helped my gameplay is playing slower and focusing more on the simple things. I&amp;rsquo;m mainly playing +R these days, and this is a big help. However, i didn&amp;rsquo;t get to this point from just playing +R.</description>
+    </item>
+    
+    <item>
+      <title>God&#39;s Gift</title>
+      <link>/en/posts/vod/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/en/posts/vod/</guid>
+      <description>TalesOfJade is a funny guy.
+     </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/en/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/en/about/</guid>
+      <description>Yo! Name&amp;rsquo;s Samuel, although I go by Jushido in most places on the internet atm. I&amp;rsquo;m a programmer with a lot of hobbies. I play fighting games(mainly Guilty Gear atm), listen to a lot of music, read manga, watch tokusatsu, used to play some basketball here and there, etc. This blog is just a place where I can talk about my time with my hobbies more freely. Twitter isn&amp;rsquo;t the best place for this kinda stuff, and while Mastodon is better, a blog is a good palce for this.</description>
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
